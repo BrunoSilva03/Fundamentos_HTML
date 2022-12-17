@@ -161,3 +161,22 @@ como um termo inserido.
 Resultado:
 
 <ins>lorem</ins>
+
+<hr>
+
+# Tag Code - Inserir códigos em HTML
+
+```
+
+A tag code coloca todos os espaços das letras com a mesma distância. Ideal
+para ler códigos.
+
+Exemplo:
+
+<code>getElementById()</code>
+
+```
+
+Resultado:
+
+<code>getElementById()</code>
