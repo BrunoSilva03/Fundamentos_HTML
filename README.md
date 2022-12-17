@@ -125,3 +125,20 @@ Obs: Nesse segundo método não é 100% certo que o emoji vai aparecer em todos 
 Resultado:
 
 # 🔥
+
+<hr>
+
+# <del>Texto Riscado</del>
+
+```
+
+Para fazer o Texto riscado utilize a tag del.
+Exemplo:
+
+<del>Itachi uchiha</del>
+
+```
+
+Resultado:
+
+<del>Itachi uchiha</del>
