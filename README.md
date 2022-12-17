@@ -135,10 +135,29 @@ Resultado:
 Para fazer o Texto riscado utilize a tag del.
 Exemplo:
 
-<del>Itachi uchiha</del>
+<del>lorem</del>
 
 ```
 
 Resultado:
 
-<del>Itachi uchiha</del>
+<del>lorem</del>
+
+
+<hr>
+
+# <ins>Texto Sublinhado</ins>
+
+```
+
+Para fazer o texto sublinhado utilize as tags u ou ins. Exemplo:
+
+<u>lorem</u>   👈Tag apenas para sublinhar. só design
+<ins>lorem</ins>  👈Forma semanticamente correta de sublinhar, já que os mecanismos de busca o entendem
+como um termo inserido.
+
+```
+
+Resultado:
+
+<ins>lorem</ins>
