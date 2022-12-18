@@ -196,4 +196,27 @@ Exemplo:
 
 Resultado:
 
+![lorem marca texto](https://user-images.githubusercontent.com/78625466/208302170-f9a976f7-2b3f-4121-af88-74ab85def3a8.PNG)
+
+
+```
+
+Obs: você pode mudar a cor do marca texto através do style, se usar a cor preta no mark, fica com aquele efeito de "arquivo secreto"
+
+Exemplo:
+
+<pre>
+<p>
+nacionalidade: Brasil
+UF: Minas Gerais
+conta no banco: <mark style="background-color:black">lorem</mark>
+senha da conta no banco: <mark style="background-color: black">lorem</mark>
+</p>
+</pre>
+
+```
+
+Resultado: 
+
+![arquivo confidencial](https://user-images.githubusercontent.com/78625466/208302378-c74f8f28-df51-4e1b-8878-18dde683fea9.PNG)
 
