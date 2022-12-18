@@ -180,3 +180,20 @@ Exemplo:
 Resultado:
 
 <code>getElementById()</code>
+
+<hr>
+
+# MARCA TEXTO
+
+```
+Utilize a tag <mark> para usar o marca texto como se fosse em uma folha de papel.
+
+Exemplo:
+
+<mark>lorem</mark>
+
+```
+
+Resultado:
+
+
