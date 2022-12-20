@@ -220,3 +220,43 @@ Resultado:
 
 ![arquivo confidencial](https://user-images.githubusercontent.com/78625466/208302378-c74f8f28-df51-4e1b-8878-18dde683fea9.PNG)
 
+
+<hr>
+
+# Texto identado e com formatação
+
+```
+
+A tag pre mostra o texto exatamente como foi escrito:
+
+Exemplo:
+
+<pre>
+  <p>
+     Um prato de trigo
+     para três tigres tristes
+     Um prato de trigo 
+     para três tigres tristes
+     Um prato de trigo
+     para três tigres tristes
+   </p>
+</pre>
+
+```
+
+Resultado
+
+<pre>
+  <p>
+     Um prato de trigo
+     para três tigres tristes
+     Um prato de trigo 
+     para três tigres tristes
+     Um prato de trigo
+     para três tigres tristes
+   </p>
+</pre>
+
+Ideal para escrever códigos junto com a tag code.
+
+<hr>
