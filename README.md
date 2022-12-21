@@ -283,3 +283,49 @@ Resultado:
   <li>Escovar os Dentes</li>
   <li>Se exercitar</li>
 </ol>
+
+
+A partir do HTML5 o <li> tornou-se opcional, pode declará-lo ou não que o resultado será o mesmo.
+Existem tipos de ordenação para as listas ordenadas veja os exemplos:
+ 
+ <h2> Tipos: </h2>
+ <h3>"a"</h3>
+ 
+ ```
+ type="a" - enumera em letras minúsculas.
+ 
+ Ex: 
+ <ol type="a"> 
+  <li>dar</li>
+  <li>Escovar os Dentes</li>
+  <li>Se Exercitar</li>
+ </ol>
+ 
+ ```
+ 
+ Resultado:
+ 
+  ![listas lists](https://user-images.githubusercontent.com/78625466/208975938-bafc00b4-2ee3-443c-8f8c-938a4c5fae47.PNG)
+
+ 
+ 
+ <h3>"A"</h3>
+ 
+ ```
+ type= "A" - enumera em letras maiúsculas
+ 
+ Ex:
+ <ol type="A> 
+  <li>dar</li>
+  <li>Escovar os Dentes</li>
+  <li>Se Exercitar</li>
+ </ol>
+ ```
+ 
+ Resultado:
+           
+ <ol type="a"> 
+  <li>dar</li>
+  <li>Escovar os Dentes</li>
+  <li>Se Exercitar</li>
+ </ol>
