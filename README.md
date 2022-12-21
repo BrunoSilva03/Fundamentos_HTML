@@ -354,3 +354,54 @@ Ex:
   <li>Se Exercitar</li>
  </ol>   
        
+
+
+<h3>"i"</h3>
+
+```
+type="i" - enumera em algarismos romanos minúsculos.
+
+Ex:
+<ol type="i"> 
+  <li>dar</li>
+  <li>Escovar os Dentes</li>
+  <li>Se Exercitar</li>
+  <li>Estudar</li>
+  <li>ir para a faculdade</li>
+ </ol>
+
+```
+
+Resultado:
+
+![algarismos romanovsky](https://user-images.githubusercontent.com/78625466/208977765-1ebe3810-1a05-4a92-8b76-f39addfcaf22.PNG)
+
+
+
+<h3>"I"</h3>
+
+```
+type="I" - enumera em algarismos romanos maiúsculos.
+
+Ex: 
+
+<ol type="I"> 
+  <li>dar</li>
+  <li>Escovar os Dentes</li>
+  <li>Se Exercitar</li>
+  <li>Estudar</li>
+  <li>ir para a faculdade</li>
+ </ol>
+
+```
+
+Resultado:
+
+
+<ol type="i"> 
+  <li>dar</li>
+  <li>Escovar os Dentes</li>
+  <li>Se Exercitar</li>
+  <li>Estudar</li>
+  <li>ir para a faculdade</li>
+ </ol>
