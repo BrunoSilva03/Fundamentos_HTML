@@ -315,7 +315,7 @@ Existem tipos de ordenação para as listas ordenadas veja os exemplos:
  type= "A" - enumera em letras maiúsculas
  
  Ex:
- <ol type="A> 
+ <ol type="A"> 
   <li>dar</li>
   <li>Escovar os Dentes</li>
   <li>Se Exercitar</li>
@@ -324,8 +324,33 @@ Existem tipos de ordenação para as listas ordenadas veja os exemplos:
  
  Resultado:
            
- <ol type="a"> 
+ <ol type="A"> 
   <li>dar</li>
   <li>Escovar os Dentes</li>
   <li>Se Exercitar</li>
  </ol>
+
+             
+             
+<h3>"1"</h3>        
+       
+```
+type="1" é o padrão, enumera em números normais
+        
+Ex:
+        
+ <ol type="1"> 
+  <li>dar</li>
+  <li>Escovar os Dentes</li>
+  <li>Se Exercitar</li>
+ </ol>       
+```
+ 
+ Resultado:
+ 
+  <ol type="1"> 
+  <li>dar</li>
+  <li>Escovar os Dentes</li>
+  <li>Se Exercitar</li>
+ </ol>   
+       
