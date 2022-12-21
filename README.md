@@ -260,3 +260,26 @@ Resultado
 Ideal para escrever códigos junto com a tag code.
 
 <hr>
+
+# Listas Ordenadas:
+
+```
+Cria listas em ordem; tag <ol> define a lista, e tag <li> define o elemento.
+
+Ex: 
+
+<ol>
+  <li>Acordar</li>
+  <li>Escovar os Dentes</li>
+  <li>Se exercitar</li>
+</ol>
+
+```
+
+Resultado:
+
+<ol>
+  <li>Acordar</li>
+  <li>Escovar os Dentes</li>
+  <li>Se exercitar</li>
+</ol>
