@@ -284,9 +284,10 @@ Resultado:
   <li>Se exercitar</li>
 </ol>
 
-
+```
 A partir do HTML5 o <li> tornou-se opcional, pode declará-lo ou não que o resultado será o mesmo.
 Existem tipos de ordenação para as listas ordenadas veja os exemplos:
+```
  
  <h2> Tipos: </h2>
  <h3>"a"</h3>
@@ -405,3 +406,29 @@ Resultado:
   <li>Estudar</li>
   <li>ir para a faculdade</li>
  </ol>
+
+
+# Listas Não Ordenadas
+
+```
+Crie listas sem ordem hierárquica(tipo itens a comprar no supermercado, requisitos para conseguir uma vaga de emprego e etc...),
+A tag <ul> define a lista não ordenada e a tag <li> define os itens/elementos da lista.
+
+Exemplo: 
+
+<ul>
+   <li>Arroz</li>
+   <li>Feijão</li>
+   <li>frutas</li
+</ul>
+
+```
+
+<strong>Resultado: </strong>
+
+<ul>
+   <li>Arroz</li>
+   <li>Feijão</li>
+   <li>frutas</li
+</ul>
+
