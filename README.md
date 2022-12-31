@@ -432,3 +432,63 @@ Exemplo:
    <li>frutas</li
 </ul>
 
+ao invés de colocar a bolinha, se você quiser pode colocar outros símbolos como o quadradinho por exemplo.
+
+```
+Exemplo 1: 
+ 
+<ul type="disc">
+   <li>Arroz</li>
+   <li>Feijão</li>
+   <li>frutas</li
+</ul>
+```
+    
+<strong>Resultado: </strong>
+    
+    
+<ul type="disc">
+   <li>Arroz</li>
+   <li>Feijão</li>
+   <li>frutas</li
+</ul>
+    
+    
+    
+```
+Exemplo 2: 
+ 
+<ul type="circle">
+   <li>Arroz</li>
+   <li>Feijão</li>
+   <li>frutas</li
+</ul>
+```
+    
+<strong>Resultado: </strong>
+ 
+<ul type="circle">
+   <li>Arroz</li>
+   <li>Feijão</li>
+   <li>frutas</li
+</ul>
+
+    
+    
+```
+Exemplo 3: 
+ 
+<ul type="square">
+   <li>Arroz</li>
+   <li>Feijão</li>
+   <li>frutas</li
+</ul>
+```
+    
+<strong>Resultado: </strong>
+    
+ <ul type="square">
+   <li>Arroz</li>
+   <li>Feijão</li>
+   <li>frutas</li
+</ul>
