@@ -519,3 +519,6 @@ usuário clicar no link vai ser aberta uma nova aba no navegador e o usuário n�
 
 
 <a href="https://www.linkedin.com/in/bruno-silva-rodrigues-62b6a51b0/" target="_blank" rel="external">Meu perfil no Linkedin(Bruno Silva)</a>
+
+<strong>Obs.</strong> Por algum motivo o target="_blank" no está funcionando no GitHub, deve ser alguma configuração específica do site 😅
+mas em sites HTML funciona normalmente👍👍👍
