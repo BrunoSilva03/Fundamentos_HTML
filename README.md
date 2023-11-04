@@ -492,3 +492,30 @@ Exemplo 3:
    <li>Feijão</li>
    <li>frutas</li
 </ul>
+
+
+# Colocar link(Âncora) no site
+
+```
+<a href="https://github.com/BrunoSilva03">meu repositório público no GitHub</a>
+
+```
+
+<strong>Resultado: </strong>
+
+<a href="https://github.com/BrunoSilva03">meu repositório público no GitHub</a>
+
+<strong>href</strong> é referância hypertexto é o link do site ou página que você vai mandar o usuário.
+
+Sempre que for colocar link para um site externo no seu site adicione <strong>target="_blank"</strong>, assim quando o
+usuário clicar no link vai ser aberta uma nova aba no navegador e o usuário não vai sair do seu site. Veja abaixo um Exemplo:
+
+```
+<a href="https://www.linkedin.com/in/bruno-silva-rodrigues-62b6a51b0/" target="_blank" rel="external">Meu perfil no Linkedin(Bruno Silva)</a>
+
+```
+
+<strong>Resultado: </strong>
+
+
+<a href="https://www.linkedin.com/in/bruno-silva-rodrigues-62b6a51b0/" target="_blank" rel="external">Meu perfil no Linkedin(Bruno Silva)</a>
