@@ -524,11 +524,11 @@ usuário clicar no link vai ser aberta uma nova aba no navegador e o usuário n�
 mas em sites HTML funciona normalmente👍👍👍
 
 
-<strong>rel="next"</strong> - informa que o link é a próxima página
-<strong>rel="prev"</strong> - informa que o link é a página anterior
-<strong>rel="nofollow"</strong> - quando você não sabe se o site que o link está referenciando é confiável.
+<strong>rel="next"</strong> - informa que o link é a próxima página<br>
+<strong>rel="prev"</strong> - informa que o link é a página anterior<br>
+<strong>rel="nofollow"</strong> - quando você não sabe se o site que o link está referenciando é confiável.<br>
 
-<strong>target="_blank"</strong> - quando clica no link abre uma nova aba no navegador.
-<strong>target="_self"</strong> - informa que você vai continuar no seu site. só que em outra página
+<strong>target="_blank"</strong> - quando clica no link abre uma nova aba no navegador.<br>
+<strong>target="_self"</strong> - informa que você vai continuar no seu site. só que em outra página<br>
 
 👆Tudo isso é bom para rankear bem no Google e em outros sites de buscas.👆
