@@ -532,3 +532,12 @@ mas em sites HTML funciona normalmente👍👍👍
 <strong>target="_self"</strong> - informa que você vai continuar no seu site. só que em outra página<br>
 
 👆Tudo isso é bom para rankear bem no Google e em outros sites de buscas.👆
+
+
+# Acessar lugares no projeto:
+
+
+ ./ -  <strong>mesma pasta</strong>
+
+ ../ - <strong>pasta anterior</strong>
+
