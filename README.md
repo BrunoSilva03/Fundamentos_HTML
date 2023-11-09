@@ -541,3 +541,10 @@ mas em sites HTML funciona normalmente👍👍👍
 
  ../ - <strong>pasta anterior</strong>
 
+
+ # Fazer download de algo no site:
+
+ ```
+ <a href="meulivro.pdf" download="meulivro.pdf" type="application/pdf">Download do meu livro em PDF.</a>
+ ```
+
