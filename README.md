@@ -546,5 +546,9 @@ mas em sites HTML funciona normalmente👍👍👍
 
  ```
  <a href="meulivro.pdf" download="meulivro.pdf" type="application/pdf">Download do meu livro em PDF.</a>
+
+ <a href="livro/meulivro.zip" download="meulivro.zip" type="application.zip">Download do livro em formato .ZIP</a>
+
+
  ```
 
