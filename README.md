@@ -557,6 +557,19 @@ mas em sites HTML funciona normalmente👍👍👍
 <h1>Pictures:</h1>
 
 ```
+<picture>
+ <source media="(max-width: 750px)" srcset="images/pequena.png" type="image/png">
+
+ <source media="(max-width: 1050px)" srcset="images/media.png" type="image/png">
+
+ <img src="images/grande.png" alt="imagem flexível">
+</picture>
 
 ```
+
+Esse código faz uma imagem ficar flexível na tela do usuário. A ORDEM DAS LINHAS É IMPORTANTE!!! Colocar sempre
+50 no final porque é o tamanho da barra lateral.
+ Em situação de tela de notebook ou computador vai aparecer o grande.png, em telas de no máximo 1050px vai aparecer
+ o media.png e em telas de até 750px vai aparecer o pequena.png. É sempre do menor para o maior. Uma responsividade simplificada 
+ para imagens em um site.
 
