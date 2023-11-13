@@ -553,3 +553,10 @@ mas em sites HTML funciona normalmente👍👍👍
  ```
 <h3>Não dá para fazer o exemplo prático aqui porque aqui não é um programa e sim um README.md</h1>
 
+
+<h1>Pictures:</h1>
+
+```
+
+```
+
